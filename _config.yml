@@ -1,0 +1,16 @@
+title: Dan Tran's Website
+author: Dan Tran
+email: dantran@dantran.tech
+description: >-
+  Dan's personal website displaying his projects,
+  career work, and other programming thoughts.
+baseurl: ""
+url: "dantran.tech"
+github_username:  Dan-Tran
+linkedin_username: dantrantech
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
