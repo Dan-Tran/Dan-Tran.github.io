@@ -1,5 +1,5 @@
 ---
-title: Cookies
+layout: page
 ---
 
 <?php
