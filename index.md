@@ -36,7 +36,23 @@ programming in general.
 
 ### ViaSat
 
-I had the amazing opportunity to intern at ViaSat and helped
-modernized their email application that communicated over low
-bandwidth radio frequencies. I revamped the GUI, optimized
-existing functionality and code, and fixed driver related bugs.
+I had the amazing opportunity to intern at ViaSat and modernized
+their email application that communicated over low bandwidth
+radio frequencies. The application was horribly outdated and
+recieved complaints from customers, but I revamped the GUI,
+optimized existing functionality and code, and fixed driver related
+bugs, improving support for FTP and POP3. Because of this, the
+rennovated application meets the customers' criteria and is pleasing
+and easy to use.
+
+### Amazon Web Services
+
+I had the amazing opportunity to intern at Amazon Web Services and
+worked on the Elastic Beastalk Dataplane Team which deals with the
+platforms offered. I expanded an internal platform service used to
+keep track of platform information to include additional metadata
+about the platform's installed software to fully describe a platform
+and fixed their tracker that tracks information about the packages
+used in the platforms. I also improved the documentation workflow
+by automating the generation of said documentation.
+
