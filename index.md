@@ -1,10 +1,16 @@
 ---
 layout: home
 ---
-Hi! I'm Dan Tran and I'm a student at the University of Washington
-majoring in Computer Science. I'm currently working on completing
-the Combined BS/MS Program and I plan on getting my Master's degree
-in the Spring of 2019.
+Hi! I'm Dan Tran and I'm currently a software engineer at Microsoft.
+I recieved my Masters Degree at the University of Washington,
+majoring in Computer Science.
+
+At Microsoft, I am a part of the team that works on Azure Boost and
+I develop and maintain the automated security infrastructure that
+allows the team to detect, triage, patch, and track vulnerabilities
+within our SLAs. I also oversee the security effort and process for
+Azure Boost. My interest is in machine learning and using those
+models to better improve our processes and tooling.
 
 You may wish to see my resume available [here](assets/dan_tran_resume.pdf).
 
